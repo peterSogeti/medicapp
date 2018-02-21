@@ -1,0 +1,8 @@
+{
+  "name": "medicapp",
+  "app_id": "90685095",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
